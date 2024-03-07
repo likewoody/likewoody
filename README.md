@@ -11,7 +11,9 @@
 
   <br>
   <!-- 1.가장 많이 사용하는 언어 -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)]
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)](https://github.com/likewoody/github-readme-stats)
+  <br>
   <!-- 2.Github stats --> 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=dark)
 
