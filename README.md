@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
 
   <br>
-  <!-- 1.Github stats -->  <!-- 2.가장 많이 사용하는 언어 -->
+  <!-- 1.가장 많이 사용하는 언어 -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=dark)
+  <!-- 2.Github stats --> 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)](https://github.com/likewoody/github-readme-stats)
 
 </div>
