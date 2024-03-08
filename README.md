@@ -9,6 +9,7 @@
   <p>
     I like
   </p>
+  <hr/>
   
   <h4>🔥 Skills</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;
@@ -18,11 +19,10 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <br><br><br>
+  <hr/>
 
-
+  <!-- 수정 필요 -->
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?likewoody=likewoody) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=dark)
-
-  
   <!-- 1.가장 많이 사용하는 언어 -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)]
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)](https://github.com/likewoody/github-readme-stats)
