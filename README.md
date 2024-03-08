@@ -21,16 +21,12 @@
   <br><br><br>
   <hr/>
 
-  <!-- 수정 필요 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=dark)
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+
   <!-- 1.가장 많이 사용하는 언어 -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)](https://github.com/likewoody/github-readme-stats)
-  <br>
-  <!-- 2.Github stats 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=dark)
- -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=gruvbox)
+  <!-- 2.Github stats -->
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+
 </div>
 
 
