@@ -22,10 +22,10 @@
   <hr/>
 
 
-  <!-- 1.가장 많이 사용하는 언어 -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=synthwave)
-  <!-- 2.Github stats -->
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+  <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=synthwave)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+  
+  
 
 </div>
 
