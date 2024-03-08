@@ -1,3 +1,0 @@
-*.html linguist-detectable=false
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
