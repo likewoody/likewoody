@@ -4,11 +4,16 @@
   </p>
   <p>Hi I'm Woody, Java Backend developer and AI software from South Korea</p>
   <h4>🔥 Skills</h4>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
   
   <h4>✏️ Studying</h4>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
   <br>
+  <br>
+
+  <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
   <!-- 1.가장 많이 사용하는 언어 -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)]
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)](https://github.com/likewoody/github-readme-stats)
