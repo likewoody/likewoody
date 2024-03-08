@@ -23,7 +23,7 @@
 
 
   <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
-  <span margin-top="0px">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=synthwave)</span>&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=synthwave)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
   
   
 
