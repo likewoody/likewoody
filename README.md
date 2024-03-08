@@ -22,8 +22,8 @@
   <hr/>
 
   <!-- 수정 필요 -->
-  github-readme-stats.vercel.app/api?username={사용자명}&show_icons=true
-  github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=5
+  github-readme-stats.vercel.app/api?username={likewoody}&show_icons=true
+  github-readme-stats.vercel.app/api/top-langs/?username={likewoody}&langs_count=5
   <!-- 1.가장 많이 사용하는 언어 -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)]
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact)](https://github.com/likewoody/github-readme-stats)
