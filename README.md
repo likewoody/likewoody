@@ -2,7 +2,7 @@
   <p>
     <img src="https://github.com/likewoody/likewoody/assets/151493474/9f632267-63cd-4a3c-b07f-dca1ada29020" alt="likewoody" width="120" height="120">
   </p>
-  <p>Hi I'm Woody, Java Backend developer and AI software from South Korea</p>
+  <p>Hi I'm Woody, Backend Java and Flutter developer and AI software engineer from South Korea</p>
   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a>
   <hr/>
 
