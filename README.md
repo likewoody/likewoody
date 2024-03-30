@@ -29,10 +29,13 @@
 
 
   <h4>👨‍💻 Particapated Project</h4>
-  [https://github.com/lcy0512/JSP-Web-Project-Sellre-Market.git](https://github.com/shin-na-ra/sellreMarket_Spring.git)
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="![Sellre](https://github.com/likewoody/likewoody/assets/151493474/2ff06b7b-7c4c-423e-ad35-4999ddcd9515)" target="_blank"/></a>
+
+  
 
   <br><br>
   <hr/>
+
 
 
   <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
