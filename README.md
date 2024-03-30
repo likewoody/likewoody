@@ -29,7 +29,8 @@
 
 
   <h4>👨‍💻 Particapated Project</h4>
-  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/2df01e43-5421-42d7-a1d5-b1dcf75605a4" target="_blank"/></a>
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/b566424d-ee71-4d3c-8c28-b5a3fe0a826e" target="_blank"/></a>
+
 
 
 
