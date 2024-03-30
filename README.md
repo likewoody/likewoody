@@ -29,9 +29,9 @@
 
 
   <h4>👨‍💻 Particapated Project</h4>
-  https://github.com/lcy0512/JSP-Web-Project-Sellre-Market.git
+  [https://github.com/lcy0512/JSP-Web-Project-Sellre-Market.git](https://github.com/shin-na-ra/sellreMarket_Spring.git)
 
-  <br><br><br>
+  <br><br>
   <hr/>
 
 
