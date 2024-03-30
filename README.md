@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">&nbsp;&nbsp;
 
     
-  <br><br><br>
+  <br>
   <hr/>
 
 
