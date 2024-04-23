@@ -30,9 +30,9 @@
 
   <h4>👨‍💻 Particapated Project</h4>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"><br>
-  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/b566424d-ee71-4d3c-8c28-b5a3fe0a826e" target="_blank"/></a>
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/b566424d-ee71-4d3c-8c28-b5a3fe0a826e" target="_blank" width=200 height=150/></a><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
-  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank"/></a>
+  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a>
 
 
 
