@@ -31,12 +31,17 @@
 
 
   <h4>👨‍💻 Particapated Project</h4>
-  <!-- 1.Sellre Market -->
+
+  <!-- .T note App -->
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/><br><br>
+  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/f9c7c20b-0c50-4230-8341-c6920d6ca8da" target="_blank" width=200 height=150/></a><br>
+
+  <!-- .DJ App -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
+  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br>
+  <!-- .Sellre Market -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"><br><br>
   <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/b566424d-ee71-4d3c-8c28-b5a3fe0a826e" target="_blank" width=200 height=150/></a><br>
-  <!-- 2.DJ App -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
-  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a>
 
 
 
