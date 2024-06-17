@@ -43,8 +43,7 @@
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br>
   <!-- .Sellre Market -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"><br><br>
-  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/b566424d-ee71-4d3c-8c28-b5a3fe0a826e" target="_blank" width=200 height=150/></a><br>
-
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/6b8df9b9-00bf-467f-b2a5-d8be3190e6f3" target="_blank" width=200 height=150/></a><br>
 
 
 
