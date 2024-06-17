@@ -33,8 +33,10 @@
   <h4>👨‍💻 Particapated Project</h4>
 
   <!-- .T note App -->
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/><br><br>
-  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/f9c7c20b-0c50-4230-8341-c6920d6ca8da" target="_blank" width=200 height=150/></a><br>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=blue"/><br><br>
+  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/8f3ea126-ac96-4907-aa39-aca1c0642d38" target="_blank" width=200 height=150/></a><br>
+
+  
 
   <!-- .DJ App -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
