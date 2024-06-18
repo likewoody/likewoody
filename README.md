@@ -34,7 +34,7 @@
 
   
   <!-- .VINOBLE -->
-  #### VINOBLE
+  #### Title : VINOBLE
 
   Platform : SwiftUI<br><br>
   Design pattern : TCA<br><br>
@@ -45,7 +45,7 @@
 
 
   <!-- .T note App -->
-  #### Tnote
+  #### Title : Tnote
   Platform : SwiftUI<br><br>
   Design pattern : MVVM<br><br>
   Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
@@ -56,7 +56,7 @@
   
 
   <!-- 당진 App -->
-  #### 당진
+  #### Title : 당진
   Framework : Flutter<br><br>
   Design pattern : MVVM<br><br>
   Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
@@ -66,7 +66,7 @@
 
   
   <!-- .Sellre Market -->
-  #### 셀리마켓
+  #### Title : 셀리마켓
   
   Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br><br>
   Framework : MVC<br><br>
