@@ -33,10 +33,16 @@
   <h4>👨‍💻 Particapated Project</h4>
 
   
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/><br>
-  ### SwiftUI
   <!-- .VINOBLE -->
-  VINOBLE
+  #### VINOBLE
+
+  Platform : SwiftUI<br>
+  Design pattern : TCA<br>
+  Server : <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><br>
+  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br>
+  
+  
+  
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br>
   
   <!-- .T note App -->
