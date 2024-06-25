@@ -10,7 +10,7 @@
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
-  <hr/>
+  <hr width=30%>
 
   <!--
   <h4>🔥 Skills</h4>
@@ -27,13 +27,13 @@
 
     
   <br>
-  <hr/>
+  <hr width=30%>
 
 
   <h4>👨‍💻 Particapated Project</h4>
 
   ### SwiftUI
-  <hr width=65%>
+  <hr width=80%>
 
   <!-- VINOBLE -->
   <img width="220" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">
@@ -48,7 +48,7 @@
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
 
   ### Flutter
-  <hr width=65%>
+  <hr width=80%>
 
 
   <!-- Tree -->
@@ -58,11 +58,11 @@
 
 
   <!-- Tree, Dangjin -->
-  <a href="https://github.com/likewoody/Tree.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/3bc16bf5-d459-4a47-a3b9-5126d02f89dd"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/likewoody/Tree.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/86341c5a-d833-4a4c-978f-f50842871c19" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
 
   ### Web
-  <hr width=65%>
+  <hr width=80%>
   <!-- .Sellre Market -->
   
   #### Title : 셀리마켓
