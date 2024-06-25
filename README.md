@@ -36,9 +36,9 @@
   <hr>
   
   #### Title : TEest
-  <img width="355" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">&nbsp;&nbsp;&nbsp;
-  <img width="355" alt="Screenshot 2024-06-25 at 3 54 47 PM" src="https://github.com/likewoody/likewoody/assets/151493474/5fea610f-f441-4192-b661-0603f8f6ff22">&nbsp;&nbsp;&nbsp;
-  <img width="355" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
+  <img width="200" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">&nbsp;&nbsp;&nbsp;
+  <img width="200" alt="Screenshot 2024-06-25 at 3 54 47 PM" src="https://github.com/likewoody/likewoody/assets/151493474/5fea610f-f441-4192-b661-0603f8f6ff22">&nbsp;&nbsp;&nbsp;
+  <img width="200" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
 
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/4aebf6e4-a2e8-45f1-b9fc-882f3a6d9d7a" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
