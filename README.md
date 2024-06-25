@@ -69,8 +69,8 @@
   Design pattern : MVVM<br><br>
   Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
   Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
-  
-  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/8f3ea126-ac96-4907-aa39-aca1c0642d38" target="_blank" width=200 height=150/></a><br><br><br>
+
+  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
 
 
 
@@ -109,7 +109,6 @@
   ### Web
   <hr>
   <!-- .Sellre Market -->
-  <hr width=35%>
   
   #### Title : 셀리마켓
   <br>
@@ -118,7 +117,8 @@
   Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
   Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
   
-  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/6b8df9b9-00bf-467f-b2a5-d8be3190e6f3" target="_blank" width=200 height=150/></a><br><br>
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br><br>
+
 
 
 
