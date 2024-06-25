@@ -68,13 +68,7 @@
   ### Web
   <hr width=80%>
   <!-- .Sellre Market -->
-  
-  #### Title : 셀리마켓
-  <br>
-  Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br><br>
-  Framework : MVC<br><br>
-  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
+  <img width="220" alt="Screenshot 2024-06-25 at 4 18 59 PM" src="https://github.com/likewoody/likewoody/assets/151493474/3053e3d3-9bab-46da-925a-68738c1265ca">
   
   <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br><br>
 
@@ -145,6 +139,14 @@
   Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
   
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
+
+
+  #### Title : 셀리마켓
+  <br>
+  Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br><br>
+  Framework : MVC<br><br>
+  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
+  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
 
   -->
 
