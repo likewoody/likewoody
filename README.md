@@ -10,7 +10,7 @@
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
-  <hr width=50%>
+  <hr/>
 
   <!--
   <h4>🔥 Skills</h4>
@@ -27,13 +27,13 @@
 
     
   <br>
-  <hr width=50%>
+  <hr/>
 
 
   <h4>👨‍💻 Particapated Project</h4>
 
   ### SwiftUI
-  <hr width=35%>
+  <hr width=65%>
 
   <!-- VINOBLE -->
   <img width="220" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">
@@ -42,13 +42,38 @@
   <!-- .T note App -->
   <img width="220" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
 
-  <!-- VINOBLE -->
+  <!-- VINOBLE, Foodit, Tnote -->
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
-  <!-- .Foodit App -->
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/4aebf6e4-a2e8-45f1-b9fc-882f3a6d9d7a" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
-  <!-- .T note App -->
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
+
+  ### Flutter
+  <hr width=65%>
+
+
+  <!-- Tree -->
+  <img width="220" alt="Screenshot 2024-06-25 at 4 02 25 PM" src="https://github.com/likewoody/likewoody/assets/151493474/aa570ded-29a4-4377-a84a-cbcd7ccc86ab">
+  <!-- Dangjin App -->
+  <img width="220" alt="Screenshot 2024-06-25 at 4 02 18 PM" src="https://github.com/likewoody/likewoody/assets/151493474/2f100744-d1ea-4b77-bcc9-c847aa157b42">
+
+
+  <!-- Tree, Dangjin -->
+  <a href="https://github.com/likewoody/Tree.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/3bc16bf5-d459-4a47-a3b9-5126d02f89dd"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
+
+  ### Web
+  <hr width=65%>
+  <!-- .Sellre Market -->
   
+  #### Title : 셀리마켓
+  <br>
+  Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br><br>
+  Framework : MVC<br><br>
+  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
+  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
+  
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br><br>
+
   
   <!-- VINOBLE -->
   <!-- 
@@ -88,11 +113,11 @@
 
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
 
- -->
+ 
 
   ### Flutter
   <hr>
-  <!-- 트리 App -->
+  <!-- 트리 App 
   
   #### Title : 트리
   <br>
@@ -101,11 +126,10 @@
   Design pattern : MVVM<br><br>
   Database : <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
   
-  <a href="https://github.com/likewoody/Tree.git" target="_blank">
-  <img src="https://github.com/likewoody/likewoody/assets/151493474/3bc16bf5-d459-4a47-a3b9-5126d02f89dd"></a><br><br><br>
+  
 
 
-  <!-- 당진 App -->
+  <!-- 당진 App 
   <hr width=35%>
   
   #### Title : 당진
@@ -118,25 +142,7 @@
   
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
 
-
-
-
-
-  ### Web
-  <hr>
-  <!-- .Sellre Market -->
-  
-  #### Title : 셀리마켓
-  <br>
-  Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br><br>
-  Framework : MVC<br><br>
-  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
-  
-  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br><br>
-
-
-
+  -->
 
   <br><br>
   <hr/>
