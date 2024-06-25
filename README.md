@@ -47,7 +47,8 @@
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br><br>
 
   <!-- .Foodit App -->
-  <hr width=50%>
+  <hr width=35%>
+  
   #### Title : Foodit
   <br>
   Platform : SwiftUI<br><br>
@@ -60,6 +61,7 @@
 
 
   <!-- .T note App -->
+  <hr width=35%>
   
   #### Title : Tnote
   <br>
@@ -88,6 +90,7 @@
 
 
   <!-- 당진 App -->
+  <hr width=35%>
   
   #### Title : 당진
   <br>
@@ -106,6 +109,7 @@
   ### Web
   <hr>
   <!-- .Sellre Market -->
+  <hr width=35%>
   
   #### Title : 셀리마켓
   <br>
