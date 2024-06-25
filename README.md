@@ -47,8 +47,8 @@
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br><br>
 
   <!-- .Foodit App -->
-
-  #### Title : Tnote
+  <hr width=50%>
+  #### Title : Foodit
   <br>
   Platform : SwiftUI<br><br>
   Design pattern : MVVM<br><br>
