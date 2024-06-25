@@ -5,12 +5,14 @@
   <p>Hi I'm Woody Jo, Mobile developer from South Korea</p>
   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a>
   <hr width=50%>
+  <br>
 
   <p>
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
   <hr width=30%>
+  <br>
 
   <!--
   <h4>🔥 Skills</h4>
@@ -26,11 +28,13 @@
   
 
     
-  <br>
+  <br><br>
   <hr width=30%>
 
 
   <h4>👨‍💻 Particapated Project</h4>
+
+  <br>
 
   ### SwiftUI
   <hr width=80%>
@@ -47,19 +51,21 @@
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/4aebf6e4-a2e8-45f1-b9fc-882f3a6d9d7a" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
 
+
+
   ### Flutter
   <hr width=80%>
-
 
   <!-- Tree -->
   <img width="220" alt="Screenshot 2024-06-25 at 4 02 25 PM" src="https://github.com/likewoody/likewoody/assets/151493474/aa570ded-29a4-4377-a84a-cbcd7ccc86ab">
   <!-- Dangjin App -->
   <img width="220" alt="Screenshot 2024-06-25 at 4 02 18 PM" src="https://github.com/likewoody/likewoody/assets/151493474/2f100744-d1ea-4b77-bcc9-c847aa157b42">
 
-
   <!-- Tree, Dangjin -->
-  <a href="https://github.com/likewoody/Tree.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/86341c5a-d833-4a4c-978f-f50842871c19" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/likewoody/Tree.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/a17e87ec-a234-4336-b0aa-b8e324625560" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
+
+  
 
   ### Web
   <hr width=80%>
