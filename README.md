@@ -46,6 +46,18 @@
   
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br><br>
 
+  <!-- .Foodit App -->
+
+  #### Title : Tnote
+  <br>
+  Platform : SwiftUI<br><br>
+  Design pattern : MVVM<br><br>
+  Server : <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/><br><br>
+  Database : <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
+  
+  <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/4aebf6e4-a2e8-45f1-b9fc-882f3a6d9d7a" target="_blank" width=200 height=150/></a><br><br><br>
+
+
 
   <!-- .T note App -->
   
@@ -62,6 +74,18 @@
 
   ### Flutter
   <hr>
+  <!-- 트리 App -->
+  
+  #### Title : 트리
+  <br>
+  Framework : <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
+  
+  Design pattern : MVVM<br><br>
+  Database : <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
+  
+  <a href="https://github.com/likewoody/Tree.git" target="_blank">
+  <img src="https://github.com/likewoody/likewoody/assets/151493474/3bc16bf5-d459-4a47-a3b9-5126d02f89dd"></a><br><br><br>
+
 
   <!-- 당진 App -->
   
@@ -74,18 +98,6 @@
   Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
   
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
-
-  <!-- 트리 App -->
-  
-  #### Title : 트리
-  <br>
-  Framework : <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
-  
-  Design pattern : MVVM<br><br>
-  Database : <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
-  
-  <a href="https://github.com/likewoody/Tree.git" target="_blank">
-  <img src="https://github.com/likewoody/likewoody/assets/151493474/3bc16bf5-d459-4a47-a3b9-5126d02f89dd"></a><br><br><br>
 
 
 
