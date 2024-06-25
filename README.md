@@ -4,13 +4,13 @@
   </p>
   <p>Hi I'm Woody Jo, Mobile developer from South Korea</p>
   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a>
-  <hr/>
+  <hr width=50%>
 
   <p>
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
-  <hr/>
+  <hr width=50%>
 
   <!--
   <h4>🔥 Skills</h4>
@@ -27,26 +27,31 @@
 
     
   <br>
-  <hr/>
+  <hr width=50%>
 
 
   <h4>👨‍💻 Particapated Project</h4>
 
   ### SwiftUI
-  <hr>
-  
-  #### Title : TEest
-  <img width="200" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">&nbsp;&nbsp;&nbsp;
-  <img width="200" alt="Screenshot 2024-06-25 at 3 54 47 PM" src="https://github.com/likewoody/likewoody/assets/151493474/5fea610f-f441-4192-b661-0603f8f6ff22">&nbsp;&nbsp;&nbsp;
-  <img width="200" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
+  <hr width=35%>
 
+  <!-- VINOBLE -->
+  <img width="220" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">
+  <!-- .Foodit App -->
+  <img width="220" alt="Screenshot 2024-06-25 at 3 54 47 PM" src="https://github.com/likewoody/likewoody/assets/151493474/5fea610f-f441-4192-b661-0603f8f6ff22">
+  <!-- .T note App -->
+  <img width="220" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
+
+  <!-- VINOBLE -->
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
+  <!-- .Foodit App -->
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/4aebf6e4-a2e8-45f1-b9fc-882f3a6d9d7a" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
+  <!-- .T note App -->
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
   
   
-  <!-- .VINOBLE -->
-  
+  <!-- VINOBLE -->
+  <!-- 
   #### Title : VINOBLE
   <br>
 
@@ -57,7 +62,7 @@
   
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br><br>
 
-  <!-- .Foodit App -->
+  <!-- .Foodit App 
   <hr width=35%>
   
   #### Title : Foodit
@@ -71,7 +76,7 @@
 
 
 
-  <!-- .T note App -->
+  <!-- .T note App 
   <hr width=35%>
   
   #### Title : Tnote
@@ -83,7 +88,7 @@
 
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
 
-
+ -->
 
   ### Flutter
   <hr>
