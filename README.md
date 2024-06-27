@@ -47,7 +47,7 @@
   <!-- VINOBLE, Foodit, Tnote -->
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/d581d23c-fa45-4315-80ac-d117bb26a75c" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/91787369-702a-4e7b-b7f6-a9ca37e3277c" target="_blank" width=200 height=150/></a><br><br><br>
+  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/7cdd1e48-473a-46c4-ad26-20d3a496a8fc" target="_blank" width=200 height=150/></a><br><br><br>
 
 
 
