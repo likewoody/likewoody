@@ -5,14 +5,12 @@
   <p>Hi I'm Woody Jo, Mobile developer from South Korea</p>
   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a>
   <hr width=80%>
-  <br>
 
   <p>
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
   <hr width=80%>
-  <br>
 
   <!--
   <h4>🔥 Skills</h4>
@@ -29,8 +27,9 @@
   <hr width=80%>
 
 
+  <!-- Project start -->
   <h4>👨‍💻 Particapated Project</h4>
-
+  
   <br>
 
   ### SwiftUI
@@ -42,7 +41,7 @@
   -->
   
   <!-- VINOBLE -->
-  <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br>
+  <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br>
 
   #### Title : VINOBLE
 
@@ -81,7 +80,7 @@
     Tree
     <img width="220" alt="Screenshot 2024-06-25 at 4 02 25 PM" src="https://github.com/likewoody/likewoody/assets/151493474/aa570ded-29a4-4377-a84a-cbcd7ccc86ab">
   -->
-  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/7cdd1e48-473a-46c4-ad26-20d3a496a8fc" target="_blank" width=200 height=150/></a><br><br>
+  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/7cdd1e48-473a-46c4-ad26-20d3a496a8fc" target="_blank" width=200 height=150/></a><br>
   
   #### Title : Tnote
 
@@ -112,7 +111,7 @@
   <!-- 당진 App -->
   <hr width=80%><br>
 
-  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br>
+  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br>
   
   #### Title : 당진
   <br>
@@ -131,7 +130,7 @@
     <img width="220" alt="Screenshot 2024-06-25 at 4 18 59 PM" src="https://github.com/likewoody/likewoody/assets/151493474/3053e3d3-9bab-46da-925a-68738c1265ca">
   -->
 
-  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br><br>
+  <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br>
     
   #### Title : 셀리마켓
   
@@ -140,13 +139,12 @@
   Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
   Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
 
-  <br>
   <hr/>
+  <!-- Project end -->
   
 
 
-
-
+  <!-- final showing skills visually -->
   <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=gruvbox)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
 
