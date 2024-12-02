@@ -4,14 +4,14 @@
   </p>
   <p>Hi I'm Woody Jo, Mobile developer from South Korea</p>
   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a>
-  <hr width=50%>
+  <hr width=80%>
   <br>
 
   <p>
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
-  <hr width=30%>
+  <hr width=80%>
   <br>
 
   <!--
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">&nbsp;&nbsp;<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
   <br><br>
-  <hr width=30%>
+  <hr width=80%>
 
 
   <h4>👨‍💻 Particapated Project</h4>
@@ -42,7 +42,7 @@
   -->
   
   <!-- VINOBLE -->
-  <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br><br>
+  <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br><br>
 
   #### Title : VINOBLE
 
@@ -58,7 +58,7 @@
   -->
 
    <!-- .Foodit App -->
-  <hr width=35%>
+  <hr width=80%><br>
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/d581d23c-fa45-4315-80ac-d117bb26a75c" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
 
 
@@ -76,14 +76,12 @@
     <img width="220" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
   -->
 
-  <hr width=35%>
+  <hr width=80%><br>
   <!-- 
     Tree
     <img width="220" alt="Screenshot 2024-06-25 at 4 02 25 PM" src="https://github.com/likewoody/likewoody/assets/151493474/aa570ded-29a4-4377-a84a-cbcd7ccc86ab">
   -->
-  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/7cdd1e48-473a-46c4-ad26-20d3a496a8fc" target="_blank" width=200 height=150/></a><br><br><br>
-
-
+  <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/7cdd1e48-473a-46c4-ad26-20d3a496a8fc" target="_blank" width=200 height=150/></a><br><br>
   
   #### Title : Tnote
 
@@ -112,9 +110,9 @@
 
 
   <!-- 당진 App -->
-  <hr width=35%>
+  <hr width=80%><br>
 
-  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br><br>
+  <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br><br>
   
   #### Title : 당진
   <br>
@@ -142,7 +140,7 @@
   Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
   Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
 
-  <br><br>
+  <br>
   <hr/>
   
 
