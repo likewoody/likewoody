@@ -1,4 +1,3 @@
-@@ -2,7 +2,7 @@
   <p>
     <img src="https://github.com/likewoody/likewoody/assets/151493474/9f632267-63cd-4a3c-b07f-dca1ada29020" alt="likewoody" width="120" height="120">
   </p>
