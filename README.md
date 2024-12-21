@@ -1,14 +1,10 @@
 <div align=left>
-<!--   <p>
-    <img src="https://github.com/likewoody/likewoody/assets/151493474/9f632267-63cd-4a3c-b07f-dca1ada29020" alt="likewoody" width="120" height="120">
-  </p> -->
-  <h3>Hi I'm Woody Jo, Mobile developer from South Korea</h3>
-<!--   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a> -->
+  ## Hi I'm Woody Jo, Mobile developer from South Korea
   <hr>
 
   <p>
-    What I like <br><br>
-    📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
+    ### What I like
+    <div font-size: 2.0em;>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
   </p>
   <hr>
 
@@ -18,24 +14,24 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   -->
   
-  <h2>✏️ Skills</h2>
-  <ol> 
+  # ✏️ Skills
+  <ul> 
       <li>Swift</li><br>
       <li>Python</li><br>
       <li>Flutter</li><br>
       <li>Flask</li><br>
       <li>Firebase</li><br>
-  </ol>
+  </ul>
   <br><br>
   <hr>
 
 
   <!-- Project start -->
-  <h1>👨‍💻 Particapated Project</h1>
+  # 👨‍💻 Particapated Project
   
   <br>
 
-  # SwiftUI
+  ## SwiftUI
   <hr>
 
   <!-- 
@@ -46,7 +42,7 @@
   <!-- VINOBLE -->
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br>
 
-  ## Title : VINOBLE
+  ### Title : VINOBLE
 
   Platform : SwiftUI<br><br>
   Design pattern : TCA<br><br>
@@ -65,7 +61,7 @@
 
 
   
-  ## Title : Foodit
+  ### Title : Foodit
   
   Platform : SwiftUI<br><br>
   Design pattern : MVVM<br><br>
@@ -85,7 +81,7 @@
   -->
   <a href="https://github.com/likewoody/ThanksNote.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/7cdd1e48-473a-46c4-ad26-20d3a496a8fc" target="_blank" width=200 height=150/></a><br>
   
-  ## Title : Tnote
+  ### Title : Tnote
 
   Platform : SwiftUI<br><br>
   Design pattern : MVVM<br><br>
@@ -97,14 +93,14 @@
 
   
 
-  # Flutter
+  ## Flutter
   <hr>
   
   <!-- 트리 App -->
 
   <a href="https://github.com/likewoody/Tree.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/a17e87ec-a234-4336-b0aa-b8e324625560" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
   
-  ## Title : 트리
+  ### Title : 트리
   
   Framework : Fluttre<br><br>
   Design pattern : MVVM<br><br>
@@ -116,7 +112,7 @@
 
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br>
   
-  ## Title : 당진
+  ### Title : 당진
   <br>
   Framework : Flutter<br><br>
   
@@ -126,7 +122,7 @@
 
 
 
-  ### Web
+  ## Web
   <hr>
   <!-- 
     Sellre Market 
@@ -135,7 +131,7 @@
 
   <a href="https://github.com/shin-na-ra/sellreMarket_Spring.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/795b284e-a28a-491e-91d4-49a6e3afff2b" target="_blank" width=200 height=150/></a><br>
     
-  ## Title : 셀리마켓
+  ### Title : 셀리마켓
   
   Language : Java<br><br>
   Framework : MVC<br><br>
