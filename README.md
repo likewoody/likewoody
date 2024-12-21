@@ -5,7 +5,7 @@
   <hr>
 
   ### What I like
-  <div font-size: 40px;>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
+  <div>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
   <hr>
   
   # ✏️ Skills
@@ -84,6 +84,7 @@
 
   
   <br>
+  
   ## Flutter
   <hr>
   
@@ -113,6 +114,7 @@
 
 
   <br>
+  
   ## Web
   <hr>
   <!-- 
