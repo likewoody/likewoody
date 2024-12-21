@@ -1,16 +1,16 @@
-<div align=center>
-  <p>
+<div align=left>
+<!--   <p>
     <img src="https://github.com/likewoody/likewoody/assets/151493474/9f632267-63cd-4a3c-b07f-dca1ada29020" alt="likewoody" width="120" height="120">
-  </p>
+  </p> -->
   <p>Hi I'm Woody Jo, Mobile developer from South Korea</p>
   <a href="https://www.instagram.com/whtjdwls?igsh=ZmtyZTk0enQxeHBI" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" target="_blank"/></a>
-  <hr width=80%>
+  <hr>
 
   <p>
     What I like <br><br>
     📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸
   </p>
-  <hr width=80%>
+  <hr>
 
   <!--
   <h4>🔥 Skills</h4>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">&nbsp;&nbsp;<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
   <br><br>
-  <hr width=80%>
+  <hr>
 
 
   <!-- Project start -->
@@ -33,7 +33,7 @@
   <br>
 
   ### SwiftUI
-  <hr width=80%>
+  <hr>
 
   <!-- 
     VINOBLE 
@@ -47,8 +47,8 @@
 
   Platform : SwiftUI<br><br>
   Design pattern : TCA<br><br>
-  Server : <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
+  Server : Flask<br><br>
+  Database : MySQL, Firebase, SQLite<br><br>
   
     
   <!-- 
@@ -57,7 +57,7 @@
   -->
 
    <!-- .Foodit App -->
-  <hr width=80%><br>
+  <hr><br>
   <a href="https://github.com/likewoody/Foodit.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/d581d23c-fa45-4315-80ac-d117bb26a75c" target="_blank" width=200 height=150/></a>&nbsp;&nbsp;&nbsp;
 
 
@@ -66,8 +66,8 @@
   
   Platform : SwiftUI<br><br>
   Design pattern : MVVM<br><br>
-  Server : <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
+  Server : Flask<br><br>
+  Database : SQLite<br><br>
   
   
   <!-- 
@@ -75,7 +75,7 @@
     <img width="220" alt="Screenshot 2024-06-25 at 3 55 00 PM" src="https://github.com/likewoody/likewoody/assets/151493474/ca05166f-4889-4d53-b20d-2bff4807cf10"><br><br><br>
   -->
 
-  <hr width=80%><br>
+  <hr><br>
   <!-- 
     Tree
     <img width="220" alt="Screenshot 2024-06-25 at 4 02 25 PM" src="https://github.com/likewoody/likewoody/assets/151493474/aa570ded-29a4-4377-a84a-cbcd7ccc86ab">
@@ -86,8 +86,8 @@
 
   Platform : SwiftUI<br><br>
   Design pattern : MVVM<br><br>
-  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
+  Server : Spring Boot<br><br>
+  Database : MySQL<br><br>
 
   
 
@@ -95,7 +95,7 @@
   
 
   ### Flutter
-  <hr width=80%>
+  <hr>
   
   <!-- 트리 App -->
 
@@ -103,28 +103,28 @@
   
   #### Title : 트리
   
-  Framework : <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
+  Framework : Fluttre<br><br>
   Design pattern : MVVM<br><br>
-  Database : <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
+  Database : SQLite<br><br>
 
 
   <!-- 당진 App -->
-  <hr width=80%><br>
+  <hr><br>
 
   <a href="https://github.com/likewoody/DJ-App.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5254a092-1840-4fab-8eaa-3d06b4fdd97a" target="_blank" width=200 height=150/></a><br>
   
   #### Title : 당진
   <br>
-  Framework : <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br><br>
+  Framework : Flutter<br><br>
   
   Design pattern : MVVM<br><br>
-  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/><br><br>
+  Server : Spring Boot<br><br>
+  Database : MySQL, Firebase, SQLite<br><br>
 
 
 
   ### Web
-  <hr width=80%>
+  <hr>
   <!-- 
     Sellre Market 
     <img width="220" alt="Screenshot 2024-06-25 at 4 18 59 PM" src="https://github.com/likewoody/likewoody/assets/151493474/3053e3d3-9bab-46da-925a-68738c1265ca">
@@ -134,10 +134,10 @@
     
   #### Title : 셀리마켓
   
-  Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br><br>
+  Language : Java<br><br>
   Framework : MVC<br><br>
-  Server : <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/><br><br>
-  Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
+  Server : Spring Boot<br><br>
+  Database : MySQL<br><br>
 
   <hr/>
   <!-- Project end -->
