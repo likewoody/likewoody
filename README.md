@@ -5,14 +5,8 @@
   <hr>
 
   ### What I like
-  <div font-size: 4.0em;>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
+  <div font-size: 40px;>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
   <hr>
-
-  <!--
-  <h4>🔥 Skills</h4>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  -->
   
   # ✏️ Skills
   
@@ -23,9 +17,7 @@
       <li>Flask</li><br>
       <li>Firebase</li><br>
   </ul>
-  <br><br>
   <hr>
-
 
   <!-- Project start -->
   # 👨‍💻 Particapated Project
