@@ -1,11 +1,11 @@
 <div align=left>
+  
   ## Hi I'm Woody Jo, Mobile developer from South Korea
+  
   <hr>
 
-  <p>
-    ### What I like
-    <div font-size: 2.0em;>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
-  </p>
+  ### What I like
+  <div font-size: 4.0em;>📚&nbsp;&nbsp;✈️&nbsp;&nbsp;🎧&nbsp;&nbsp;📸</div>
   <hr>
 
   <!--
@@ -15,6 +15,7 @@
   -->
   
   # ✏️ Skills
+  
   <ul> 
       <li>Swift</li><br>
       <li>Python</li><br>
@@ -28,8 +29,6 @@
 
   <!-- Project start -->
   # 👨‍💻 Particapated Project
-  
-  <br>
 
   ## SwiftUI
   <hr>
@@ -92,7 +91,7 @@
 
 
   
-
+  <br>
   ## Flutter
   <hr>
   
@@ -121,7 +120,7 @@
   Database : MySQL, Firebase, SQLite<br><br>
 
 
-
+  <br>
   ## Web
   <hr>
   <!-- 
