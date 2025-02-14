@@ -12,10 +12,9 @@
   
   <ul> 
       <li>Swift</li><br>
-      <li>Python</li><br>
       <li>Flutter</li><br>
+      <li>Python</li><br>
       <li>Flask</li><br>
-      <li>Firebase</li><br>
   </ul>
   <hr>
 
