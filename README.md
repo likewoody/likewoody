@@ -1,6 +1,6 @@
 <div align=left>
   
-  ## Hi I'm Woody Jo, Mobile developer from South Korea
+  ## Hi, I'm Woody Jo,<br>Mobile developer from South Korea
   
   <hr>
 
