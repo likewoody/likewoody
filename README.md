@@ -23,8 +23,8 @@
   ## SwiftUI
   <hr>
 
-  ### Title : GitHubUser_Search
-  <a href="https://github.com/likewoody/GitHubUser_Search" target="_blank"> GitHubUser_Search </a><br>
+  # [GitHubUser_Search](https://github.com/likewoody/GitHubUser_Search)
+  
   Platform : SwiftUI<br><br>
   Design pattern : Clean Architecture<br><br>
   Database : CoreData<br><br>
