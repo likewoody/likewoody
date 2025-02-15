@@ -23,11 +23,20 @@
   ## SwiftUI
   <hr>
 
+  ### Title : GitHubUser_Search
+  <a href="https://github.com/likewoody/GitHubUser_Search" target="_blank"> GitHubUser_Search </a><br>
+  Platform : SwiftUI<br><br>
+  Design pattern : Clean Architecture<br><br>
+  Database : CoreData<br><br>
+  Dependency<br>
+  - SDWebImageSwiftUI 3.1.3,
+  - Alamofire 5.10.2<br><br>
   <!-- 
     VINOBLE 
     <img width="220" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">
   -->
-  
+
+  <hr><br>
   <!-- VINOBLE -->
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br>
 
