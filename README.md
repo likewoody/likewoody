@@ -22,21 +22,33 @@
 
   ## SwiftUI
   <hr>
-
-  # [GitHubUser_Search](https://github.com/likewoody/GitHubUser_Search)
+  <!-- ### [GitHubUser_Search](https://github.com/likewoody/GitHubUser_Search) -->
+  <h3><a href="https://github.com/likewoody/GitHubUser_Search" style="color: black; text-decoration: none;">GitHubUser_Search</a></h1>
   
   Platform : SwiftUI<br><br>
   Design pattern : Clean Architecture<br><br>
-  Database : CoreData<br><br>
+  Database : MVVM, CoreData<br><br>
   Dependency<br>
-  - SDWebImageSwiftUI 3.1.3,
+  - SDWebImageSwiftUI 3.1.3
   - Alamofire 5.10.2<br><br>
-  <!-- 
-    VINOBLE 
-    <img width="220" alt="Screenshot 2024-06-25 at 3 54 41 PM" src="https://github.com/likewoody/likewoody/assets/151493474/8cf21bce-e287-4a85-a7a7-5096749b42a1">
-  -->
 
   <hr><br>
+
+
+  <h3><a href="https://github.com/likewoody/RxSwift_Clean_Architecture" style="color: black; text-decoration: none;">GitHubUser_Search</a></h1>
+  
+  Framework : UIKit<br><br>
+  Design pattern : MVVM, Clean Architecture<br><br>
+  Database : CoreData<br><br>
+  Dependency<br>
+  - RxSwift 6.8.0
+  - Kingfisher 8.1.3
+  - Snapkit 5.7.1
+  - Alamofire 5.10.2<br><br>
+
+  <hr><br>
+
+  
   <!-- VINOBLE -->
   <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br>
 
