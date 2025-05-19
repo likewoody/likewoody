@@ -50,7 +50,10 @@
 
   
   <!-- VINOBLE -->
-  <a href="https://github.com/likewoody/Vinoble.git" target="_blank"><img src="https://github.com/likewoody/likewoody/assets/151493474/5e2d4866-5c08-492a-83e6-e4ee81d60c46" target="_blank" width=200 height=150/></a><br>
+  <h3>
+      <a href="https://github.com/likewoody/Vinoble" style="color: black; text-decoration: none;">Vinoble</a>
+  </h3>
+<br>
 
   ### Title : VINOBLE
 
