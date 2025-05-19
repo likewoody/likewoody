@@ -46,14 +46,13 @@
   - Snapkit 5.7.1
   - Alamofire 5.10.2<br><br>
 
-  <hr><br>
+  <hr>
 
   
   <!-- VINOBLE -->
   <h3>
       <a href="https://github.com/likewoody/Vinoble" style="color: black; text-decoration: none;">Vinoble</a>
   </h3>
-<br>
 
   ### Title : VINOBLE
 
