@@ -5,7 +5,7 @@
   <hr>
 
   ### What I like
-  <div>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</div>
+  <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h3>
   <hr>
   
   # ✏️ Skills
