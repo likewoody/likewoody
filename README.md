@@ -1,29 +1,24 @@
 <div align=left>
   
   <!-- ### Hi, I'm Woody Jo.<br><br>Java developer from South Korea. -->
+  ### Introduce
   Hi, I'm Woody Jo.<br>
   Java developer in South Korea.
   
-  ---
-  
-
   ### What I like
-  <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h1>
+  <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h3>
 
-  ---
   
-  ### ✏️ Skills
+  ### Skills
   
   <ul> 
       <li>Java</li><br>
       <li>Python</li><br>
-      <li>C</li><br>
+      <li>C</li>
   </ul>
-  
-  ---
 
   <!-- Project start -->
-  ### 👨‍💻 What I learned
+  ### What I learned
 
   OS: <a href="https://github.com/omokgosu/pintos-userprog">pintos project</a>
 
