@@ -13,16 +13,19 @@
   <ul> 
       <li>Java</li><br>
       <li>Python</li><br>
-      <li>Swift</li><br>
+      <li>C</li><br>
   </ul>
   <hr>
 
   <!-- Project start -->
-  # 👨‍💻 Particapated Project
+  # 👨‍💻 What I learned
 
+  OS pintos:  <a href="https://github.com/omokgosu/pintos-userprog"></a>
+
+<!-- 
   ## SwiftUI
   <!-- ### [GitHubUser_Search](https://github.com/likewoody/GitHubUser_Search) 
-  -->
+ 
   
   <h3><a href="https://github.com/likewoody/GitHubUser_Search" style="color: black; text-decoration: none;">GitHubUser_Search</a></h3>
   
@@ -49,7 +52,7 @@
   <hr>
 
   
-  <!-- VINOBLE -->
+  <!-- VINOBLE 
   <h3>
       <a href="https://github.com/likewoody/Vinoble" style="color: black; text-decoration: none;">Vinoble</a>
   </h3>
@@ -63,9 +66,12 @@
   
 
 
-  <!-- final showing skills visually -->
-  <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=gruvbox)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+  <!-- final showing skills visually 
+  <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats 
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likewoody&layout=compact&theme=gruvbox)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likewoody&show_icons=true&theme=gruvbox)
+  -->
+
+  
 
 </div>
   
