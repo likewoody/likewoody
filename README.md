@@ -1,10 +1,16 @@
 <div align=left>
   
-  ### Hi, I'm Woody Jo.<br><br>Java developer from South Korea.
+  <!-- ### Hi, I'm Woody Jo.<br><br>Java developer from South Korea. -->
+  Hi, I'm Woody Jo.<br>
+  Java developer in South Korea.
+  
+  ---
   
 
   ### What I like
   <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h1>
+
+  ---
   
   ### ✏️ Skills
   
@@ -13,7 +19,8 @@
       <li>Python</li><br>
       <li>C</li><br>
   </ul>
-  <hr>
+  
+  ---
 
   <!-- Project start -->
   ### 👨‍💻 What I learned
