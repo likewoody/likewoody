@@ -6,14 +6,21 @@
   Java developer in South Korea.
   
   ### What I like
-  <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h3>
+  <!-- <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h3> -->
+  <ul> 
+      <li>Reading a book 📚</li>
+      <li>Making a meal 🍳</li>
+      <li>Listening to music 🎧</li>
+      <li>Taking a photo 📸</li>
+  </ul>
+
 
   
   ### Skills
   
   <ul> 
-      <li>Java</li><br>
-      <li>Python</li><br>
+      <li>Java</li>
+      <li>Python</li>
       <li>C</li>
   </ul>
 
