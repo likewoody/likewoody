@@ -2,13 +2,11 @@
   
   ### Hi, I'm Woody Jo.<br><br>Java developer from South Korea.
   
-  <hr>
 
   ### What I like
-  <h1>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h1>
-  <hr>
+  <h3>📚&nbsp;&nbsp;🍳&nbsp;&nbsp;🎧&nbsp;&nbsp;📸&nbsp;&nbsp;✈️</h1>
   
-  # ✏️ Skills
+  ### ✏️ Skills
   
   <ul> 
       <li>Java</li><br>
@@ -18,9 +16,9 @@
   <hr>
 
   <!-- Project start -->
-  # 👨‍💻 What I learned
+  ### 👨‍💻 What I learned
 
-  OS pintos:  <a href="https://github.com/omokgosu/pintos-userprog"></a>
+  OS: <a href="https://github.com/omokgosu/pintos-userprog">pintos project</a>
 
 <!-- 
   ## SwiftUI
